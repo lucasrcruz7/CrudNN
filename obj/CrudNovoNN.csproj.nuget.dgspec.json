@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\CrudNovoNN\\CrudNovoNN.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNovoNN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\CrudNovoNN\\CrudNovoNN.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNovoNN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\CrudNovoNN\\CrudNovoNN.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNovoNN.csproj",
         "projectName": "CrudNovoNN",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\CrudNovoNN\\CrudNovoNN.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNovoNN.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\CrudNovoNN\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\CrudNN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
