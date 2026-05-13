@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudNovoNN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34635d8eeeffb1aead0b918890418f149ca71c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2768de478f4701f9058d92ec02d51f4de737fd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudNovoNN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudNovoNN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

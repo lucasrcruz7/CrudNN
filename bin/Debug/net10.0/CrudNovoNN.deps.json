@@ -11,7 +11,7 @@
           "Microsoft.EntityFrameworkCore.Design": "10.0.7",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "10.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.1",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.Protocol": "7.3.1"
         },
         "runtime": {
@@ -1078,7 +1078,7 @@
           "Microsoft.Extensions.DependencyModel": "10.0.7",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1181,7 +1181,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": "10.0.2",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1208,7 +1208,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Templating": "10.0.2",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1239,7 +1239,7 @@
           "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": "10.0.2",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1270,7 +1270,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Core": "10.0.2",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1297,7 +1297,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Utils": "10.0.2",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1322,7 +1322,7 @@
           "Microsoft.Extensions.DependencyModel": "10.0.7",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1353,7 +1353,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration": "10.0.2",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Packaging": "7.3.1",
+          "NuGet.Packaging": "7.6.0",
           "NuGet.ProjectModel": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
@@ -1404,32 +1404,32 @@
           }
         }
       },
-      "NuGet.Common/7.3.1": {
+      "NuGet.Common/7.6.0": {
         "dependencies": {
-          "NuGet.Frameworks": "7.3.1"
+          "NuGet.Frameworks": "7.6.0"
         },
         "runtime": {
           "lib/net8.0/NuGet.Common.dll": {
-            "assemblyVersion": "7.3.1.0",
-            "fileVersion": "7.3.1.1"
+            "assemblyVersion": "7.6.0.0",
+            "fileVersion": "7.6.0.59"
           }
         }
       },
-      "NuGet.Configuration/7.3.1": {
+      "NuGet.Configuration/7.6.0": {
         "dependencies": {
-          "NuGet.Common": "7.3.1",
+          "NuGet.Common": "7.6.0",
           "System.Security.Cryptography.ProtectedData": "9.0.6"
         },
         "runtime": {
           "lib/net8.0/NuGet.Configuration.dll": {
-            "assemblyVersion": "7.3.1.0",
-            "fileVersion": "7.3.1.1"
+            "assemblyVersion": "7.6.0.0",
+            "fileVersion": "7.6.0.59"
           }
         }
       },
       "NuGet.DependencyResolver.Core/6.12.1": {
         "dependencies": {
-          "NuGet.Configuration": "7.3.1",
+          "NuGet.Configuration": "7.6.0",
           "NuGet.LibraryModel": "6.12.1",
           "NuGet.Protocol": "7.3.1"
         },
@@ -1440,18 +1440,18 @@
           }
         }
       },
-      "NuGet.Frameworks/7.3.1": {
+      "NuGet.Frameworks/7.6.0": {
         "runtime": {
           "lib/net8.0/NuGet.Frameworks.dll": {
-            "assemblyVersion": "7.3.1.0",
-            "fileVersion": "7.3.1.1"
+            "assemblyVersion": "7.6.0.0",
+            "fileVersion": "7.6.0.59"
           }
         }
       },
       "NuGet.LibraryModel/6.12.1": {
         "dependencies": {
-          "NuGet.Common": "7.3.1",
-          "NuGet.Versioning": "7.3.1"
+          "NuGet.Common": "7.6.0",
+          "NuGet.Versioning": "7.6.0"
         },
         "runtime": {
           "lib/netstandard2.0/NuGet.LibraryModel.dll": {
@@ -1460,16 +1460,16 @@
           }
         }
       },
-      "NuGet.Packaging/7.3.1": {
+      "NuGet.Packaging/7.6.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Configuration": "7.3.1",
-          "NuGet.Versioning": "7.3.1"
+          "NuGet.Configuration": "7.6.0",
+          "NuGet.Versioning": "7.6.0"
         },
         "runtime": {
           "lib/net8.0/NuGet.Packaging.dll": {
-            "assemblyVersion": "7.3.1.0",
-            "fileVersion": "7.3.1.1"
+            "assemblyVersion": "7.6.0.0",
+            "fileVersion": "7.6.0.59"
           }
         }
       },
@@ -1486,7 +1486,7 @@
       },
       "NuGet.Protocol/7.3.1": {
         "dependencies": {
-          "NuGet.Packaging": "7.3.1"
+          "NuGet.Packaging": "7.6.0"
         },
         "runtime": {
           "lib/net8.0/NuGet.Protocol.dll": {
@@ -1495,11 +1495,11 @@
           }
         }
       },
-      "NuGet.Versioning/7.3.1": {
+      "NuGet.Versioning/7.6.0": {
         "runtime": {
           "lib/net8.0/NuGet.Versioning.dll": {
-            "assemblyVersion": "7.3.1.0",
-            "fileVersion": "7.3.1.1"
+            "assemblyVersion": "7.6.0.0",
+            "fileVersion": "7.6.0.59"
           }
         }
       },
@@ -2187,19 +2187,19 @@
       "path": "npgsql.entityframeworkcore.postgresql/10.0.1",
       "hashPath": "npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.sha512"
     },
-    "NuGet.Common/7.3.1": {
+    "NuGet.Common/7.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1mp7zmyAGmQfT93ELC4c+MYOrJ8Ff4ekFZRek4JSVLb/wOO/o0bsPfLmqujCsJ2Hlwc+fpq1TQEnjSEgWdt8ng==",
-      "path": "nuget.common/7.3.1",
-      "hashPath": "nuget.common.7.3.1.nupkg.sha512"
+      "sha512": "sha512-uyXLqkbbZmkMvdHOR23l1EHW2hRmULtzoG3Ocj84VpGptnNfkODVboHGJfDfcn9Gi9oUNDs8/VjL4FZcST6zVg==",
+      "path": "nuget.common/7.6.0",
+      "hashPath": "nuget.common.7.6.0.nupkg.sha512"
     },
-    "NuGet.Configuration/7.3.1": {
+    "NuGet.Configuration/7.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tGxWBo47EQONOaqY+MbEWMrNjFthHgfavLM1HE0RcLyOXVCoQKBlZGV7v0hrS/rJrQKw6ZaBeHetX+ZJgS7Lxg==",
-      "path": "nuget.configuration/7.3.1",
-      "hashPath": "nuget.configuration.7.3.1.nupkg.sha512"
+      "sha512": "sha512-+bNj+YneC5CNg1vR+WZjLAakscJlsi0KhADZUgIJPn4pwh8/jeCUMC5ik5cpET/i+QOplDy7aJVTGkpdfrlPww==",
+      "path": "nuget.configuration/7.6.0",
+      "hashPath": "nuget.configuration.7.6.0.nupkg.sha512"
     },
     "NuGet.DependencyResolver.Core/6.12.1": {
       "type": "package",
@@ -2208,12 +2208,12 @@
       "path": "nuget.dependencyresolver.core/6.12.1",
       "hashPath": "nuget.dependencyresolver.core.6.12.1.nupkg.sha512"
     },
-    "NuGet.Frameworks/7.3.1": {
+    "NuGet.Frameworks/7.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-VUPAE5l/Ir4Gb3dv+v0jq0Qe4nfwxfrfiYN7QhwlGyWPXFKYXSSke1t1bV/ZYd6idtTtRDqJPM49Lt/U8NTocg==",
-      "path": "nuget.frameworks/7.3.1",
-      "hashPath": "nuget.frameworks.7.3.1.nupkg.sha512"
+      "sha512": "sha512-rJ7QtKN45XzLXCrMATve6eFLiUyUGEkA1rFSb6U6Fw6laM4hEAcKOrcdbgWlcFUlCK2158qP1LF00hg/ivF3nw==",
+      "path": "nuget.frameworks/7.6.0",
+      "hashPath": "nuget.frameworks.7.6.0.nupkg.sha512"
     },
     "NuGet.LibraryModel/6.12.1": {
       "type": "package",
@@ -2222,12 +2222,12 @@
       "path": "nuget.librarymodel/6.12.1",
       "hashPath": "nuget.librarymodel.6.12.1.nupkg.sha512"
     },
-    "NuGet.Packaging/7.3.1": {
+    "NuGet.Packaging/7.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5bT8uOrNBx4Srhbrd3HonYmyKhWJkvQyTWTYE2jvfPgYx2aCbPmq8MCYko7ce78hEN9mpq2xlrztVhguYPc+GQ==",
-      "path": "nuget.packaging/7.3.1",
-      "hashPath": "nuget.packaging.7.3.1.nupkg.sha512"
+      "sha512": "sha512-TDp+qHzRBy1zjwiJGCbfpdO0jMG5hH/bk7p1EABLKv9p5SIykDPGnbuYXm2iZO0QJ/H+hOI/vo5LfqM17Q+G0w==",
+      "path": "nuget.packaging/7.6.0",
+      "hashPath": "nuget.packaging.7.6.0.nupkg.sha512"
     },
     "NuGet.ProjectModel/6.12.1": {
       "type": "package",
@@ -2243,12 +2243,12 @@
       "path": "nuget.protocol/7.3.1",
       "hashPath": "nuget.protocol.7.3.1.nupkg.sha512"
     },
-    "NuGet.Versioning/7.3.1": {
+    "NuGet.Versioning/7.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-TJrQWSmD1vakfav7qIhDXgDFfaZFfMJ+v6P8tcND9ZqXajD5B/ZzaoGYNzL4D3eDue6vAOUvwzu42G+19JNVUA==",
-      "path": "nuget.versioning/7.3.1",
-      "hashPath": "nuget.versioning.7.3.1.nupkg.sha512"
+      "sha512": "sha512-TpZxfOoQBQk/0r/2uc1A1qNYIKHkJGgOrWP+ax3nsNAUN/1BOQMDrgmGADogSA4hOXH1ZJiyeYg4Ca+vUW0sEg==",
+      "path": "nuget.versioning/7.6.0",
+      "hashPath": "nuget.versioning.7.6.0.nupkg.sha512"
     },
     "System.CodeDom/6.0.0": {
       "type": "package",

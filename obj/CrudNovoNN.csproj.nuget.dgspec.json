@@ -72,7 +72,7 @@
             },
             "NuGet.Packaging": {
               "target": "Package",
-              "version": "[7.3.1, )"
+              "version": "[7.6.0, )"
             },
             "NuGet.Protocol": {
               "target": "Package",
